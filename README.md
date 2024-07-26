@@ -5,8 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-senno&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="LeandroSenno-ft" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="LeandroSenno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javaScript/javascript-plain.svg">
+  <img align="center" alt="LeandroSenno-ft" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">    <img align="center" alt="LeandroSenno-ft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
   
   ##
