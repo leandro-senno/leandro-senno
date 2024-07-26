@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="LeandroSenno-ft" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="LeandroSenno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/javascript-plain.svg">
+  <img align="center" alt="LeandroSenno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javaScript/javascript-plain.svg">
 </div>
   
   ##
