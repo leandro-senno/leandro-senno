@@ -1,11 +1,28 @@
-## Olá eu sou o Leandro Senno, sou desenvolvedor flutter junior!
+##👋 Olá, eu sou o Leandro
+
+Sou Desenvolvedor Backend Jr em formação com foco em Node.js, Express e REST APIs.
+
+💻 Tecnologias:
+- Node.js
+- Express
+- JavaScript
+- REST APIs
+- PostgreSQL / MongoDB
+- Git
+
+📂 Projetos em destaque:
+- API de Tarefas (CRUD)
+- API de Usuários com JWT
+
+📫 Me encontre:
+🔗 LinkedIn: https://www.linkedin.com/in/leandrosenno/
 <div align="center">
   <a href="https://github.com/leandro-senno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandro-senno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-senno&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="LeandroSenno-ft" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">    <img align="center" alt="LeandroSenno-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="LeandroSenno-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="LeandroSenno-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="LeandroSenno-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           
